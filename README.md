@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khoirony
 - 👀 I’m interested in code, art, and some interesting stuff
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently learning TALL Stack
 - 📫 How to reach me khoironyarief@gmail.com
 
 <!---
