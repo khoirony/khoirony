@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">HELLO, I AM <span style="color: #ef4444;">RONY</span> 👋</h1>
-  <h3 align="center">Khoirony Arief</h3>
+
   <p align="center">
     <strong>Junior Developer at Far Capital | Bachelor of Informatics Engineering</strong>
   </p>
@@ -49,9 +49,9 @@ I challenge myself to build something new consistently to sharpen my skills. Her
 
 | Week | Project Name | Description | Tech Stack | Status | Link |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| **01** | **Admin Dashboard** | Simple admin panel template | Tailwind, Laravel | ✅ | [Demo](#) |
-| **02** | **To-Do List App** | Interactive task manager | AlpineJS, Livewire | ✅ | [Demo](#) |
-| **03** | **Landing Page** | Clone of a popular website | HTML, Tailwind | 🚧 | [Demo](#) |
+| **01** | **Web Portfolio** | Simple landing page | Tailwind, Js | ✅ | [Demo](https://khoirony.fun) |
+| **02** | **Portfolio Gaming Version** | Interactive portfolio as game | Unity | ✅ | [Demo](https://game.khoirony.fun) |
+| **03** | **Fintrac** | Comprehensive Financial Dashboard | TALL Stack, MySql, Gemini API | 🚧 | [Demo](https://financial.khoirony.fun) |
 | **04** | **Coming Soon...** | Next weekly challenge | TALL Stack | 🔜 | - |
 
 > *Note: These projects are part of my journey to master Fullstack Development.*
