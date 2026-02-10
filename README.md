@@ -26,7 +26,7 @@
 Hi, Nice to meet you! I have experience as a web developer from 2022. Currently, I am deeply focused on the **TALL Stack** (Tailwind, Alpine.js, Laravel, Livewire) and **Bubble.io**.
 
 * 🔭 I’m currently working on **Weekly Coding Challenges**.
-* 🌱 I’m currently learning **Advanced Laravel & Micro-economics**.
+* 🌱 I’m currently learning **Advanced Laravel** and integrated with **AI Model**.
 * 💪 Outside of programming, I am interested in **Workout** and **Economics**.
 * ⚡ Fun fact: I treat bugs like a workout set—I don't stop until it's done!
 
