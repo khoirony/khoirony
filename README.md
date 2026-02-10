@@ -58,16 +58,6 @@ I challenge myself to build something new consistently to sharpen my skills. Her
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoirony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Khoirony's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoirony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <p>Developed by <strong>Khoirony Arief</strong></p>
 </div>
