@@ -54,8 +54,6 @@ I challenge myself to build something new consistently to sharpen my skills. Her
 | **03** | **Fintrac** | Comprehensive Financial Dashboard | TALL Stack, MySql, Gemini API | 🚧 | [Demo](https://financial.khoirony.fun) |
 | **04** | **Coming Soon...** | Next weekly challenge | TALL Stack | 🔜 | - |
 
-> *Note: These projects are part of my journey to master Fullstack Development.*
-
 ---
 
 <div align="center">
